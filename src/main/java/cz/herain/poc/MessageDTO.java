@@ -1,4 +1,4 @@
-package cz.herain.sample.springreactivepoc;
+package cz.herain.poc;
 
 public class MessageDTO {
 

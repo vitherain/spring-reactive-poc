@@ -1,4 +1,4 @@
-package cz.herain.sample.springreactivepoc;
+package cz.herain.poc;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

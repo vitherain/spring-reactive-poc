@@ -1,4 +1,4 @@
-package cz.herain.sample.springreactivepoc;
+package cz.herain.poc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
